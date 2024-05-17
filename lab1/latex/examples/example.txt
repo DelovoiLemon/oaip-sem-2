@@ -1,0 +1,6 @@
+ $ ./task
+Enter n: 10
+Recursive:
+n = 10 y(n) = 0.098916
+Linear:
+n = 10 y(n) = 0.098916
